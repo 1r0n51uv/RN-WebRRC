@@ -9,6 +9,11 @@ class Contact extends Component {
                     Contact
                 </Text>
             </SafeAreaView>
+
+
+
+
+
         );
     }
 }
